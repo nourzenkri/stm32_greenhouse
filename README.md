@@ -1,5 +1,3 @@
-# stm32_greenhouse
-
 # Connected Greenhouse | STM32 Sensor Station
 
 A DIY connected greenhouse monitoring system built around an **STM32** microcontroller. It reads environmental data (light, soil moisture, temperature and humidity) and displays it in real time on an OLED screen, while also logging it over UART.
